@@ -17,5 +17,5 @@
             <p class="apresentacao__conteudo__texto">Trabalho como MEI desde de 2005 como Técnico em Manutenção e Suporte em 
                 Informática na KA INFORMATICA BATATAIS.</p>
             <p class="apresentacao__conteudo__texto">Desde de 2021 sou Entregador Parceiro pelo iFood.</p>
-        </section>
-        </main>
+       </section>
+</main>
